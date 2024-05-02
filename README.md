@@ -9,10 +9,8 @@ Brief description of what the project does.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+## Dataset Link
 
-Provide step-by-step instructions on how to install and set up the project. Include any dependencies that need to be installed and how to install them.
+link for the dataset :
 
-```bash
-# Example command for installing dependencies
-npm install
+![sentiment-analysis-of-twitter-us-elction-database]([images/1.jpg](https://raw.githubusercontent.com/Haripurnachandrapavansaii/Haripurnachandrapavansaii-sentiment-analysis-of-twitter-us-elction-database/main/s10%20is.png)
