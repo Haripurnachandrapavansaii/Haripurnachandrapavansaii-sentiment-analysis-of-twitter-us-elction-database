@@ -11,6 +11,6 @@ Brief description of what the project does.
 
 ## Dataset Link
 
-link for the dataset :
+link for the dataset : https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets?select=hashtag_donaldtrump.csv
 
-![sentiment-analysis-of-twitter-us-elction-database]([images/1.jpg](https://raw.githubusercontent.com/Haripurnachandrapavansaii/Haripurnachandrapavansaii-sentiment-analysis-of-twitter-us-elction-database/main/s10%20is.png)
+![Haripurnachandrapavansaii-sentiment-analysis-of-twitter-us-elction-database](https://raw.githubusercontent.com/Haripurnachandrapavansaii/Haripurnachandrapavansaii-sentiment-analysis-of-twitter-us-elction-database/main/s10%20is.png)
